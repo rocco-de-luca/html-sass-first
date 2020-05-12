@@ -1,0 +1,24 @@
+// vars
+$primary-col: #f50;
+
+
+body{
+    background-color: #000;
+    font-family: sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+color: $primary-col;
+}
+
+h3{
+    color: $primary-col;
+}
+
+p{
+    color: #fff;
+}
